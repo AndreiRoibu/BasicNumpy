@@ -4,6 +4,7 @@
 This collection respresents a set of very simple numpy stack codes, designed to aid my learning. These codes are inspired by a course created by the [Lazy Programmer](https://github.com/lazyprogrammer). More information can be found at these two links:
 
 [https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python](https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python)
+
 [https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python)
 
 ## Installation
@@ -21,7 +22,7 @@ pip install -e .
 In order to run the solver, type the following commands int the activated python environment. 
 
 ```python
-pythonfile_name.py
+python file_name.py
 ```
 
 ## Contributing
