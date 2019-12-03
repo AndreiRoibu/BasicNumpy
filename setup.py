@@ -8,6 +8,9 @@ setup(
     maintainer='AndreiRoibu',
     maintainer_email='aroibu1@gmail.com',
     install_requires=[
-        'numpy'
+        'numpy',
+        'pandas',
+        'matplotlib',
+        'scipy'
     ],
 )
