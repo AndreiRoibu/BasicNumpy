@@ -61,3 +61,7 @@ env/
 venv/
 ENV/
 env.bak/
+
+# DataFiles
+data/
+generated_data/
