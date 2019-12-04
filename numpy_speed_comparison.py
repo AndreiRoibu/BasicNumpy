@@ -27,7 +27,7 @@ def speed_comparison():
         return result
 
     t0 = datetime.now()
-    for t in range(T):
+    for _ in range(T):
         slow_dot_product(a, b)
     dt1 = datetime.now() - t0
 
