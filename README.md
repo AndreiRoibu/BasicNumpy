@@ -1,7 +1,7 @@
-# Basic Numpy
+# The Numpy Stack
 
 ## Motivation
-This collection respresents a set of very simple numpy, scipy, pandas and matplotlib stack codes, designed to aid my learning. These codes are inspired by a course created by the [Lazy Programmer](https://github.com/lazyprogrammer). More information can be found at these two links:
+This collection respresents a set of very simple numpy, scipy, pandas, matplotlib and scikit-learn codes, designed to aid my learning. These codes are inspired by a course created by the [Lazy Programmer](https://github.com/lazyprogrammer). More information can be found at these two links:
 
 [https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python](https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python)
 
