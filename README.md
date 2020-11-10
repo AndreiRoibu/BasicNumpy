@@ -18,6 +18,12 @@ source env/bin/activate
 pip install -e .
 ```
 
+Alternativelly, run the setup.sh file as follows:
+
+```bash
+./setup.sh
+```
+
 ## Usage
 In order to run the solver, type the following commands int the activated python environment. 
 
